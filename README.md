@@ -12,7 +12,4 @@ WinActivate("about:blank - Chromium")
 Send("{TAB}{TAB}{ENTER}")
 ```
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1omzAmfxh1Nd4oCD-cTTOFSVsJUGGernc" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Title](path/to/your/thumbnail.jpg)](https://drive.google.com/file/d/1omzAmfxh1Nd4oCD-cTTOFSVsJUGGernc/view?usp=sharing)
