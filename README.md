@@ -12,4 +12,4 @@ WinActivate("about:blank - Chromium")
 Send("{TAB}{TAB}{ENTER}")
 ```
 
-[![Video Title](path/to/your/thumbnail.jpg)](https://drive.google.com/file/d/1omzAmfxh1Nd4oCD-cTTOFSVsJUGGernc/view?usp=sharing)
+[![Video ](path/to/your/thumbnail.jpg)](https://drive.google.com/file/d/1omzAmfxh1Nd4oCD-cTTOFSVsJUGGernc/view?usp=sharing)
